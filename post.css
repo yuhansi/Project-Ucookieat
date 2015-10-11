@@ -1,0 +1,173 @@
+.row {
+    width: 900px !important;
+    margin: auto;
+}
+
+.hidden-xs {
+    margin-right: 20px;
+}
+
+.hidden-vs {
+    text-align: left;
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 48px;
+    color: #d35400;
+}
+
+.reservedate1 {
+    font-size: 20px;
+    line-height: 0px;
+    margin-left: 45px;
+}
+
+.reservedate2 {
+    font-size: 16px;
+    line-height: 0px;
+    margin-left: 45px;
+}
+
+.break {
+    width: 500px;
+    margin-left: 45px;
+    border: 1px solid #9d9d9d; 
+
+}
+
+.offer {
+    margin-left: 30px;
+}
+
+.col-md-3 {
+    width: 450px !important;
+}
+
+.col-md-9 {
+    width: 500px;
+    text-align: left;
+    margin-top: -20px;
+}
+
+.reserve {
+    font-size: 20px;
+    margin-left: 10px;
+    padding-top: 10px;
+}
+
+.map {
+    align: right;
+}
+
+.coupon {
+    border: 3px dashed #bcbcbc;
+    border-radius: 10px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", 
+    "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+}
+
+.coupon #head {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    min-height: 56px;
+}
+
+.coupon #footer {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+#title .visible-xs {
+    font-size: 12px;
+}
+
+.coupon #title img {
+    font-size: 30px;
+    height: 30px;
+    margin-top: 5px;
+}
+
+@media screen and (max-width: 500px) {
+    .coupon #title img {
+        height: 15px;
+    }
+}
+
+.coupon #title span {
+    float: right;
+    margin-top: 35px;
+    font-weight: 700;
+}
+
+.coupon-img {
+    width: 90%;
+    margin-bottom: 15px;
+    margin-left: 45px;
+    padding: 0;
+}
+
+.items {
+    margin-top: 15px;
+    margin-left: 35px;
+}
+
+.usd, .cents {
+    font-size: 20px;
+}
+
+.number {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+sup {
+    top: -15px;
+}
+
+#business-info ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+#business-info ul li { 
+    display: inline;
+    text-align: center;
+}
+
+#business-info ul li span {
+    text-decoration: none;
+    padding: .2em 1em;
+}
+
+#business-info ul li span i {
+    padding-right: 5px;
+}
+
+.disclosure {
+    padding-top: 15px;
+    font-size: 11px;
+    color: #bcbcbc;
+    text-align: center;
+}
+
+.coupon-code {
+    color: #333333;
+    font-size: 11px;
+}
+
+.exp {
+    color: #f34235;
+}
+
+.print {
+    font-size: 14px;
+    float: right;
+}
+
+.mastfoot {
+  color: #999; /* IE8 proofing */
+  color: rgba(0,0,0,.8);
+  text-align: center;
+}
