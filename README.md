@@ -9,7 +9,7 @@
 - Save events in your Google calendar
 - Host profile with social media link integration
 
-#####Upcomming Features:
+#####Upcoming Features:
 - Fully functional Log in system
 - Review history comments and rate your host
 - Functional payment system
