@@ -15,3 +15,5 @@
 - Functional payment system
 - Real-time chatting room
 - Database for website data and account info storage
+
+######Contributed by: Yuhan Si, Qing Ye, Shuxing Fang, Cherry Chen
