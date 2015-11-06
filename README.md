@@ -16,4 +16,4 @@
 - Real-time chatting room
 - Database for website data and account info storage
 
-######Contributed by: Yuhan Si, Qing Ye, Shuxing Fang, Cherry Chen
+######Contributed by: Cherry Chen, Qing Ye, Shuxing Fang, Yuhan Si 
